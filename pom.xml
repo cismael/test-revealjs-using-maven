@@ -17,7 +17,7 @@
 		
         <download.maven.plugin.version>1.6.6</download.maven.plugin.version>
         <asciidoctor.maven.plugin.version>1.6.0</asciidoctor.maven.plugin.version>
-        <asciidoctorj.version>1.6.2</asciidoctorj.version>
+        <asciidoctorj.version>2.5.4</asciidoctorj.version>
         <jruby.version>9.2.19.0</jruby.version>
         <revealjs.version>3.8.0</revealjs.version>
         <!-- Use 'master' as version and remove the 'v' prefixing the download url to use the current snapshot version  -->
