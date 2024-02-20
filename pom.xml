@@ -27,7 +27,7 @@
         <asciidoctorj.version>1.6.2</asciidoctorj.version>
         <asciidoctor-revealjs.version>1.0.4</asciidoctor-revealjs.version> <!-- Use 'master' as version and remove the 'v' prefixing the download url to use the current snapshot version  -->
         <revealjs.version>3.8.0</revealjs.version>
-        <jruby.version>9.2.19.0</jruby.version>
+        <jruby.version>9.4.6.0</jruby.version>
     </properties>
 
     <build>
